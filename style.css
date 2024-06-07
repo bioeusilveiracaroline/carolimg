@@ -1,0 +1,27 @@
+
+.roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+.Fulano{
+    font-weight: bold;
+}
+
+body{
+
+    background-color: #305050;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+  
+h2{
+    color: orange;
+}
+
+h3{
+    font-weight: bold;
+}
